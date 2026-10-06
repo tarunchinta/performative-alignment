@@ -1,0 +1,17 @@
+Gate: GO (single-family (run `gate` for the combined decision)) -- 1 families with >= 2 consistent-sign clusters (need >= 1).
+
+Expected judge calls (before cache replay): ~32,000  (~19.2M input tokens, ~0.16M output tokens)
+ family persona   t     js_to_ref  global_accuracy  n_global_pairs  local_accuracy  n_local_pairs  global_accuracy_all  local_accuracy_all  spearman_rho  local_set_size
+gpt-5.4 group_a 0.0 -3.839623e-17         0.945455             330        0.829787             47               0.8925            0.777778      0.886889              26
+gpt-5.4 group_a 0.2  8.594398e-03         0.957831             332        0.816327             49               0.8975            0.733333      0.914323              20
+gpt-5.4 group_a 0.4  2.997111e-02         0.944099             322        0.813953             43               0.8800            0.686567      0.933729              16
+gpt-5.4 group_a 0.6  6.254896e-02         0.933131             329        0.820513             39               0.8775            0.709677      0.891152              14
+gpt-5.4 group_a 0.8  1.085213e-01         0.921875             320        0.794872             39               0.8375            0.694915      0.897030              12
+gpt-5.4 group_a 1.0  1.785050e-01         0.897436             312        0.714286             42               0.8375            0.671875      0.908527              12
+gpt-5.4 group_b 0.0 -3.839623e-17         0.934426             305        0.879310             58               0.8375            0.802632      0.812430              26
+gpt-5.4 group_b 0.2  8.594398e-03         0.923588             301        0.907407             54               0.8575            0.835616      0.842820              20
+gpt-5.4 group_b 0.4  2.997111e-02         0.893382             272        0.837209             43               0.8150            0.710145      0.772613              16
+gpt-5.4 group_b 0.6  6.254896e-02         0.878571             280        0.869565             46               0.7975            0.753623      0.786655              14
+gpt-5.4 group_b 0.8  1.085213e-01         0.851852             270        0.857143             35               0.7575            0.762712      0.728245              12
+gpt-5.4 group_b 1.0  1.785050e-01         0.767528             271        0.857143             35               0.6950            0.761905      0.587034              12
+Phase 2 artifacts in results/exp3_live/gpt-5.4

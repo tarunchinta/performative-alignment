@@ -1,0 +1,90 @@
+Menu: 100 items, 10 clusters, domain='one-sentence descriptions of a city at night'
+
+=== Phase 0: menu validation ===
+Separability: cluster-label recoverability acc=0.510 (chance=0.10)  silhouette=0.002  passed=True
+Quality balance: max |cluster mean - grand| / item SD = 0.432  passed=True
+Prompt checklist: parse_fail=0.000, position_bias=0.524, repeat_agreement=0.583
+  (parse/bias are the harness gates; modest synthetic repeat-agreement just reflects near-tie pairs in the menu, not a harness fault.)
+
+=== Phase 1: judge psychometrics (2 synthetic families) ===
+phase1 cells:   0%|          | 0/24 [00:00<?, ?it/s]phase1 cells:   4%|4         | 1/24 [00:10<04:02, 10.54s/it]phase1 cells:   8%|8         | 2/24 [00:19<03:31,  9.61s/it]phase1 cells:  12%|#2        | 3/24 [00:29<03:25,  9.80s/it]phase1 cells:  17%|#6        | 4/24 [00:48<04:30, 13.50s/it]phase1 cells:  21%|##        | 5/24 [01:05<04:40, 14.79s/it]phase1 cells:  25%|##5       | 6/24 [01:22<04:35, 15.33s/it]phase1 cells:  29%|##9       | 7/24 [01:37<04:19, 15.27s/it]phase1 cells:  33%|###3      | 8/24 [01:53<04:07, 15.50s/it]phase1 cells:  38%|###7      | 9/24 [02:07<03:47, 15.18s/it]phase1 cells:  42%|####1     | 10/24 [02:23<03:33, 15.27s/it]phase1 cells:  46%|####5     | 11/24 [02:38<03:19, 15.35s/it]phase1 cells:  50%|#####     | 12/24 [02:53<03:03, 15.30s/it]phase1 cells:  54%|#####4    | 13/24 [03:04<02:33, 13.97s/it]phase1 cells:  58%|#####8    | 14/24 [03:13<02:03, 12.40s/it]phase1 cells:  62%|######2   | 15/24 [03:22<01:42, 11.37s/it]phase1 cells:  67%|######6   | 16/24 [03:40<01:47, 13.40s/it]phase1 cells:  71%|#######   | 17/24 [03:57<01:41, 14.53s/it]phase1 cells:  75%|#######5  | 18/24 [04:15<01:33, 15.51s/it]phase1 cells:  79%|#######9  | 19/24 [04:28<01:14, 14.83s/it]phase1 cells:  83%|########3 | 20/24 [04:42<00:58, 14.52s/it]phase1 cells:  88%|########7 | 21/24 [04:54<00:41, 13.68s/it]phase1 cells:  92%|#########1| 22/24 [05:07<00:27, 13.51s/it]phase1 cells:  96%|#########5| 23/24 [05:20<00:13, 13.21s/it]phase1 cells: 100%|##########| 24/24 [05:32<00:00, 13.09s/it]phase1 cells: 100%|##########| 24/24 [05:32<00:00, 13.87s/it]
+
+Contextual-exposure lambda_hat by family and probe cluster:
+  synth_lam1.0 cluster 1: lambda_hat=+13.068  CI=[+11.897, +15.761] *  form=linear
+  synth_lam1.0 cluster 5: lambda_hat=+11.491  CI=[+11.886, +18.429] *  form=linear
+  synth_lam1.0 cluster 8: lambda_hat=+13.285  CI=[+12.257, +16.438] *  form=threshold
+  synth_lam2.0 cluster 1: lambda_hat=+15.476  CI=[+12.330, +16.130] *  form=linear
+  synth_lam2.0 cluster 5: lambda_hat=+15.523  CI=[+13.157, +17.098] *  form=linear
+  synth_lam2.0 cluster 8: lambda_hat=+15.500  CI=[+14.420, +18.016] *  form=linear
+
+Control lambda_hat (expect CI to include 0):
+  Placebo (control): mean lambda_hat=-0.114, 0/6 cells exclude 0
+  Group A contam. (control): mean lambda_hat=+0.341, 0/6 cells exclude 0
+
+Stated-vs-contextual lambda_hat agreement (Spearman):
+  synth_lam1.0: rho=0.500
+  synth_lam2.0: rho=-0.500
+
+Go/No-Go: GO -- 2 families with >= 2 consistent-sign clusters (need >= 2).
+
+=== Validation: Phase 1 ===
+Phase 1 synthetic-recovery checks passed.
+
+=== Surrogate utility surface ===
+  synth_lam1.0: best form=linear  alpha=0.692  b=7.075 (true beta*lam=8.0)  held-out LL=-0.6149 vs no-prevalence -0.6608
+  synth_lam2.0: best form=linear  alpha=0.688  b=12.166 (true beta*lam=16.0)  held-out LL=-0.6035 vs no-prevalence -0.6663
+Surrogate recovery checks passed.
+
+=== Phase 2: miscalibration under deployment shift ===
+phase2 steps:   0%|          | 0/28 [00:00<?, ?it/s]phase2 steps:   4%|3         | 1/28 [00:00<00:13,  1.93it/s]phase2 steps:   7%|7         | 2/28 [00:00<00:12,  2.10it/s]phase2 steps:  11%|#         | 3/28 [00:01<00:10,  2.28it/s]phase2 steps:  14%|#4        | 4/28 [00:01<00:10,  2.38it/s]phase2 steps:  18%|#7        | 5/28 [00:02<00:09,  2.42it/s]phase2 steps:  21%|##1       | 6/28 [00:02<00:09,  2.39it/s]phase2 steps:  25%|##5       | 7/28 [00:05<00:27,  1.32s/it]phase2 steps:  29%|##8       | 8/28 [00:06<00:21,  1.07s/it]phase2 steps:  32%|###2      | 9/28 [00:06<00:16,  1.15it/s]phase2 steps:  36%|###5      | 10/28 [00:07<00:13,  1.37it/s]phase2 steps:  39%|###9      | 11/28 [00:07<00:10,  1.57it/s]phase2 steps:  43%|####2     | 12/28 [00:08<00:09,  1.73it/s]phase2 steps:  46%|####6     | 13/28 [00:08<00:08,  1.77it/s]phase2 steps:  50%|#####     | 14/28 [00:11<00:19,  1.37s/it]phase2 steps:  54%|#####3    | 15/28 [00:12<00:14,  1.10s/it]phase2 steps:  57%|#####7    | 16/28 [00:12<00:11,  1.09it/s]phase2 steps:  61%|######    | 17/28 [00:13<00:09,  1.14it/s]phase2 steps:  64%|######4   | 18/28 [00:14<00:08,  1.19it/s]phase2 steps:  68%|######7   | 19/28 [00:14<00:07,  1.27it/s]phase2 steps:  71%|#######1  | 20/28 [00:15<00:05,  1.34it/s]phase2 steps:  75%|#######5  | 21/28 [00:19<00:11,  1.61s/it]phase2 steps:  79%|#######8  | 22/28 [00:19<00:08,  1.35s/it]phase2 steps:  82%|########2 | 23/28 [00:20<00:05,  1.13s/it]phase2 steps:  86%|########5 | 24/28 [00:21<00:03,  1.03it/s]phase2 steps:  89%|########9 | 25/28 [00:21<00:02,  1.15it/s]phase2 steps:  93%|#########2| 26/28 [00:22<00:01,  1.30it/s]phase2 steps:  96%|#########6| 27/28 [00:23<00:00,  1.36it/s]phase2 steps: 100%|##########| 28/28 [00:26<00:00,  1.62s/it]phase2 steps: 100%|##########| 28/28 [00:26<00:00,  1.05it/s]
+
+local_accuracy by persona and t (family = synth_lam2.0):
+  group_a: t=0.0:0.582  t=0.2:0.544  t=0.4:0.596  t=0.6:0.647  t=0.8:0.455  t=1.0:0.333
+  group_b: t=0.0:0.639  t=0.2:0.596  t=0.4:0.615  t=0.6:0.638  t=0.8:0.538  t=1.0:0.400
+
+global_accuracy by persona and t (family = synth_lam2.0):
+  group_a: t=0.0:0.776  t=0.2:0.712  t=0.4:0.772  t=0.6:0.748  t=0.8:0.765  t=1.0:0.786
+  group_b: t=0.0:0.716  t=0.2:0.735  t=0.4:0.676  t=0.6:0.663  t=0.8:0.615  t=1.0:0.658
+
+spearman_rho by persona and t (family = synth_lam2.0):
+  group_a: t=0.0:0.773  t=0.2:0.693  t=0.4:0.770  t=0.6:0.671  t=0.8:0.751  t=1.0:0.748
+  group_b: t=0.0:0.701  t=0.2:0.658  t=0.4:0.553  t=0.6:0.641  t=0.8:0.589  t=1.0:0.567
+
+=== Validation: Phase 2 ===
+Group B global accuracy decline (early -> late): +0.089
+Group A global accuracy shift  (early -> late): -0.031
+Group B local accuracy decline  (early -> late): +0.148
+Spearman decline  B: +0.101  A: -0.016
+Phase 2 checks passed: Group-B-specific degradation reproduced.
+
+=== Phase 3: retention under judge-defined utility ===
+phase3 (family x seed):   0%|          | 0/6 [00:00<?, ?it/s]phase3 (family x seed):  17%|#6        | 1/6 [00:06<00:32,  6.47s/it]phase3 (family x seed):  33%|###3      | 2/6 [00:12<00:26,  6.50s/it]phase3 (family x seed):  50%|#####     | 3/6 [00:19<00:19,  6.64s/it]phase3 (family x seed):  67%|######6   | 4/6 [00:26<00:12,  6.49s/it]phase3 (family x seed):  83%|########3 | 5/6 [00:32<00:06,  6.32s/it]phase3 (family x seed): 100%|##########| 6/6 [00:38<00:00,  6.26s/it]phase3 (family x seed): 100%|##########| 6/6 [00:38<00:00,  6.37s/it]
+
+Retention (fresh-judge measured, mean +- sd over seeds):
+  synth_lam1.0                     rlhf: 0.126 +- 0.923  (eff. support 13.3, JS to ref 0.218)
+  synth_lam1.0             vpl_inferred: 0.114 +- 0.750  (eff. support 13.8, JS to ref 0.215)
+  synth_lam1.0               vpl_oracle: 0.184 +- 0.899  (eff. support 13.3, JS to ref 0.218)
+  synth_lam1.0   deployment_conditioned: 0.871 +- 0.178  (eff. support 21.4, JS to ref 0.131)
+  synth_lam2.0                     rlhf: 0.317 +- 0.303  (eff. support 22.6, JS to ref 0.164)
+  synth_lam2.0             vpl_inferred: 0.315 +- 0.385  (eff. support 22.4, JS to ref 0.169)
+  synth_lam2.0               vpl_oracle: 0.323 +- 0.194  (eff. support 22.5, JS to ref 0.167)
+  synth_lam2.0   deployment_conditioned: 0.890 +- 0.254  (eff. support 23.9, JS to ref 0.120)
+
+=== Validation: Phase 3 ===
+  seed 0                     rlhf: measured=0.519 true=0.403
+  seed 0             vpl_inferred: measured=0.501 true=0.432
+  seed 0               vpl_oracle: measured=0.270 true=0.325
+  seed 0   deployment_conditioned: measured=1.151 true=0.794
+  seed 1                     rlhf: measured=0.465 true=0.630
+  seed 1             vpl_inferred: measured=0.571 true=0.547
+  seed 1               vpl_oracle: measured=0.538 true=0.628
+  seed 1   deployment_conditioned: measured=0.643 true=0.756
+  seed 2                     rlhf: measured=-0.031 true=-0.051
+  seed 2             vpl_inferred: measured=-0.127 true=-0.124
+  seed 2               vpl_oracle: measured=0.163 true=-0.124
+  seed 2   deployment_conditioned: measured=0.877 true=0.720
+Mean |measured - true| retention gap: 0.219
+Mean corr(fresh u_hat, surrogate utility): 0.774
+Phase 3 checks passed: shared collapse + oracle failure reproduced.
+
+All synthetic end-to-end checks passed. Outputs in results

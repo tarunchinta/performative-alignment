@@ -1,0 +1,259 @@
+\begin{thebibliography}{36}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Akpinar et~al.(2026)Akpinar, Avula, Lee, Dang, Razat, and
+  Murdock}]{akpinar2026}
+N.-J. Akpinar, S.~Avula, C.~J. Lee, B.~Dang, K.~Razat, and V.~Murdock. 2026.
+\newblock \href {https://arxiv.org/abs/2601.15556} {{LLM} or human? perceptions
+  of trust and information quality in research summaries}.
+\newblock In \emph{Proceedings of the 2026 {CHI} Conference on Human Factors in
+  Computing Systems}.
+
+\bibitem[{Alemohammad et~al.(2024)Alemohammad, Casco-Rodriguez, Luzi, Humayun,
+  Babaei, LeJeune, Siahkoohi, and Baraniuk}]{alemohammad2024}
+S.~Alemohammad, J.~Casco-Rodriguez, L.~Luzi, A.~I. Humayun, H.~Babaei,
+  D.~LeJeune, A.~Siahkoohi, and R.~G. Baraniuk. 2024.
+\newblock \href {https://arxiv.org/abs/2307.01850} {Self-consuming generative
+  models go {MAD}}.
+\newblock In \emph{International Conference on Learning Representations}.
+
+\bibitem[{Bahlous-Boldi et~al.(2024)Bahlous-Boldi, Ding, Spector, and
+  Niekum}]{bahlous2024}
+R.~Bahlous-Boldi, L.~Ding, L.~Spector, and S.~Niekum. 2024.
+\newblock \href {https://arxiv.org/abs/2406.15599} {Pareto-optimal learning
+  from preferences with hidden context}.
+\newblock \emph{arXiv preprint arXiv:2406.15599}.
+
+\bibitem[{Bradley and Terry(1952)}]{bradley1952}
+R.~A. Bradley and M.~E. Terry. 1952.
+\newblock \href {https://doi.org/10.1093/biomet/39.3-4.324} {Rank analysis of
+  incomplete block designs: {I}. the method of paired comparisons}.
+\newblock \emph{Biometrika}, 39(3/4):324--345.
+
+\bibitem[{Chakraborty et~al.(2024)Chakraborty, Qiu, Yuan, Koppel, Manocha,
+  Huang, Bedi, and Wang}]{chakraborty2024}
+S.~Chakraborty, J.~Qiu, H.~Yuan, A.~Koppel, D.~Manocha, F.~Huang, A.~S. Bedi,
+  and M.~Wang. 2024.
+\newblock \href {https://arxiv.org/abs/2402.08925} {{MaxMin-RLHF}: Alignment
+  with diverse human preferences}.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning}, pages 6116--6135.
+
+\bibitem[{Chen et~al.(2025)Chen, Chen, Rege, and Vinayak}]{chen2025}
+D.~Chen, Y.~Chen, A.~Rege, and R.~K. Vinayak. 2025.
+\newblock \href {https://arxiv.org/abs/2406.08469} {{PAL}: Pluralistic
+  alignment framework for learning from heterogeneous preferences}.
+\newblock In \emph{International Conference on Learning Representations}.
+
+\bibitem[{Christiano et~al.(2017)Christiano, Leike, Brown, Martic, Legg, and
+  Amodei}]{christiano2017}
+P.~F. Christiano, J.~Leike, T.~B. Brown, M.~Martic, S.~Legg, and D.~Amodei.
+  2017.
+\newblock \href {https://arxiv.org/abs/1706.03741} {Deep reinforcement learning
+  from human preferences}.
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Doshi and Hauser(2024)}]{doshi2024}
+A.~R. Doshi and O.~P. Hauser. 2024.
+\newblock \href {https://doi.org/10.1126/sciadv.adn5290} {Generative {AI}
+  enhances individual creativity but reduces the collective diversity of novel
+  content}.
+\newblock \emph{Science Advances}, 10(28):eadn5290.
+
+\bibitem[{Frank(1985)}]{frank1985}
+R.~H. Frank. 1985.
+\newblock \emph{Choosing the Right Pond: Human Behavior and the Quest for
+  Status}.
+\newblock Oxford University Press.
+
+\bibitem[{Gao et~al.(2023)Gao, Schulman, and Hilton}]{gao2023}
+L.~Gao, J.~Schulman, and J.~Hilton. 2023.
+\newblock \href {https://arxiv.org/abs/2210.10760} {Scaling laws for reward
+  model overoptimization}.
+\newblock In \emph{Proceedings of the 40th International Conference on Machine
+  Learning}, pages 10835--10866.
+
+\bibitem[{Ghasemi and Crowley(2026)}]{ghasemi2026}
+M.~Ghasemi and M.~Crowley. 2026.
+\newblock Rethinking {AI} alignment: From static rewards to social
+  reinforcement learning.
+\newblock In \emph{Pluralistic Alignment Workshop @ {ICML} 2026}.
+\newblock OpenReview: dm2o7hw14F.
+
+\bibitem[{Gray(2024)}]{gray2024}
+A.~Gray. 2024.
+\newblock \href {https://arxiv.org/abs/2403.16887} {{ChatGPT}
+  ``contamination'': Estimating the prevalence of {LLMs} in the scholarly
+  literature}.
+\newblock \emph{arXiv preprint arXiv:2403.16887}.
+
+\bibitem[{Hardt et~al.(2016)Hardt, Megiddo, Papadimitriou, and
+  Wootters}]{hardt2016}
+M.~Hardt, N.~Megiddo, C.~Papadimitriou, and M.~Wootters. 2016.
+\newblock \href {https://doi.org/10.1145/2840728.2840730} {Strategic
+  classification}.
+\newblock In \emph{Proceedings of the 2016 {ACM} Conference on Innovations in
+  Theoretical Computer Science}, pages 111--122.
+
+\bibitem[{Heffetz(2011)}]{heffetz2011}
+O.~Heffetz. 2011.
+\newblock \href {https://doi.org/10.1162/REST_a_00116} {A test of conspicuous
+  consumption: Visibility and income elasticities}.
+\newblock \emph{Review of Economics and Statistics}, 93(4):1101--1117.
+
+\bibitem[{Hirsch(1976)}]{hirsch1976}
+F.~Hirsch. 1976.
+\newblock \emph{Social Limits to Growth}.
+\newblock Harvard University Press.
+
+\bibitem[{Juzek and Ward(2025)}]{juzek2025}
+T.~S. Juzek and Z.~B. Ward. 2025.
+\newblock \href {https://arxiv.org/abs/2412.11385} {Why does {ChatGPT}
+  ``delve'' so much? exploring the sources of lexical overrepresentation in
+  large language models}.
+\newblock In \emph{Proceedings of the 31st International Conference on
+  Computational Linguistics}, pages 6397--6411.
+
+\bibitem[{Kirk et~al.(2024)Kirk, Mediratta, Nalmpantis, Luketina, Hambro,
+  Grefenstette, and Raileanu}]{kirk2024}
+R.~Kirk, I.~Mediratta, C.~Nalmpantis, J.~Luketina, E.~Hambro, E.~Grefenstette,
+  and R.~Raileanu. 2024.
+\newblock \href {https://arxiv.org/abs/2310.06452} {Understanding the effects
+  of {RLHF} on {LLM} generalisation and diversity}.
+\newblock In \emph{International Conference on Learning Representations}.
+
+\bibitem[{Kobak et~al.(2025)Kobak, Gonz{\'a}lez-M{\'a}rquez, Horv{\'a}t, and
+  Lause}]{kobak2025}
+D.~Kobak, R.~Gonz{\'a}lez-M{\'a}rquez, E.-{\'A}. Horv{\'a}t, and J.~Lause.
+  2025.
+\newblock \href {https://doi.org/10.1126/sciadv.adt3813} {Delving into
+  {LLM}-assisted writing in biomedical publications through excess vocabulary}.
+\newblock \emph{Science Advances}, 11(27):eadt3813.
+
+\bibitem[{Kousha and Thelwall(2025)}]{kousha2025}
+K.~Kousha and M.~Thelwall. 2025.
+\newblock \href {https://arxiv.org/abs/2509.09596} {How much are {LLMs}
+  changing the language of academic papers after {ChatGPT}? a multi-database
+  and full text analysis}.
+\newblock \emph{arXiv preprint arXiv:2509.09596}.
+
+\bibitem[{Lasry and Lions(2007)}]{lasry2007}
+J.-M. Lasry and P.-L. Lions. 2007.
+\newblock \href {https://doi.org/10.1007/s11537-007-0657-8} {Mean field games}.
+\newblock \emph{Japanese Journal of Mathematics}, 2(1):229--260.
+
+\bibitem[{Lin and Gan(2026)}]{lin2026}
+Z.~Lin and J.~Gan. 2026.
+\newblock Position: Aggregate preference optimization hides a posterior
+  identifiability failure for pluralistic alignment.
+\newblock In \emph{Pluralistic Alignment Workshop @ {ICML} 2026}.
+\newblock OpenReview: xTvaoLTCMd.
+
+\bibitem[{Mandal et~al.(2023)Mandal, Triantafyllou, and Radanovic}]{mandal2023}
+D.~Mandal, S.~Triantafyllou, and G.~Radanovic. 2023.
+\newblock \href {https://arxiv.org/abs/2207.00046} {Performative reinforcement
+  learning}.
+\newblock In \emph{Proceedings of the 40th International Conference on Machine
+  Learning}.
+
+\bibitem[{Mendler-D{\"u}nner et~al.(2020)Mendler-D{\"u}nner, Perdomo, Zrnic,
+  and Hardt}]{mendler2020}
+C.~Mendler-D{\"u}nner, J.~C. Perdomo, T.~Zrnic, and M.~Hardt. 2020.
+\newblock \href {https://arxiv.org/abs/2006.06887} {Stochastic optimization for
+  performative prediction}.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~33, pages 4929--4939.
+
+\bibitem[{Naous et~al.(2024)Naous, Ryan, Ritter, and Xu}]{naous2024}
+T.~Naous, M.~J. Ryan, A.~Ritter, and W.~Xu. 2024.
+\newblock \href {https://arxiv.org/abs/2305.14456} {Having beer after prayer?
+  {M}easuring cultural bias in large language models}.
+\newblock In \emph{Proceedings of the 62nd Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}.
+
+\bibitem[{Ouyang et~al.(2022)Ouyang, Wu, Jiang et~al.}]{ouyang2022}
+L.~Ouyang, J.~Wu, X.~Jiang, et~al. 2022.
+\newblock \href {https://arxiv.org/abs/2203.02155} {Training language models to
+  follow instructions with human feedback}.
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Padmakumar and He(2024)}]{padmakumar2024}
+V.~Padmakumar and H.~He. 2024.
+\newblock \href {https://arxiv.org/abs/2309.05196} {Does writing with language
+  models reduce content diversity?}
+\newblock In \emph{International Conference on Learning Representations}.
+
+\bibitem[{Perdomo et~al.(2020)Perdomo, Zrnic, Mendler-D{\"u}nner, and
+  Hardt}]{perdomo2020}
+J.~C. Perdomo, T.~Zrnic, C.~Mendler-D{\"u}nner, and M.~Hardt. 2020.
+\newblock \href {https://arxiv.org/abs/2002.06673} {Performative prediction}.
+\newblock In \emph{Proceedings of the 37th International Conference on Machine
+  Learning}, pages 7599--7609.
+
+\bibitem[{Poddar et~al.(2024)Poddar, Wan, Ivison, Gupta, and
+  Jaques}]{poddar2024}
+S.~Poddar, Y.~Wan, H.~Ivison, A.~Gupta, and N.~Jaques. 2024.
+\newblock \href {https://arxiv.org/abs/2408.10075} {Personalizing reinforcement
+  learning from human feedback with variational preference learning}.
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Rafailov et~al.(2023)Rafailov, Sharma, Mitchell, Ermon, Manning, and
+  Finn}]{rafailov2023}
+R.~Rafailov, A.~Sharma, E.~Mitchell, S.~Ermon, C.~D. Manning, and C.~Finn.
+  2023.
+\newblock \href {https://arxiv.org/abs/2305.18290} {Direct preference
+  optimization: Your language model is secretly a reward model}.
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Raj(2026)}]{raj2026}
+A.~Raj. 2026.
+\newblock \href {https://arxiv.org/abs/2606.27578} {{PEBS}: Per-rater
+  empirical-{Bayes} shrinkage for {RLHF} reward-model calibration}.
+\newblock In \emph{Pluralistic Alignment Workshop @ {ICML} 2026}.
+
+\bibitem[{Rosenthal(1973)}]{rosenthal1973}
+R.~W. Rosenthal. 1973.
+\newblock \href {https://doi.org/10.1007/BF01737559} {A class of games
+  possessing pure-strategy {N}ash equilibria}.
+\newblock \emph{International Journal of Game Theory}, 2(1):65--67.
+
+\bibitem[{Ryan et~al.(2024)Ryan, Held, and Yang}]{ryan2024}
+M.~J. Ryan, W.~Held, and D.~Yang. 2024.
+\newblock \href {https://arxiv.org/abs/2402.15018} {Unintended impacts of {LLM}
+  alignment on global representation}.
+\newblock In \emph{Proceedings of the 62nd Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}.
+
+\bibitem[{Shumailov et~al.(2024)Shumailov, Shumaylov, Zhao, Papernot, Anderson,
+  and Gal}]{shumailov2024}
+I.~Shumailov, Z.~Shumaylov, Y.~Zhao, N.~Papernot, R.~Anderson, and Y.~Gal.
+  2024.
+\newblock \href {https://doi.org/10.1038/s41586-024-07566-y} {{AI} models
+  collapse when trained on recursively generated data}.
+\newblock \emph{Nature}, 631(8022):755--759.
+
+\bibitem[{Siththaranjan et~al.(2024)Siththaranjan, Laidlaw, and
+  Hadfield-Menell}]{siththaranjan2024}
+A.~Siththaranjan, C.~Laidlaw, and D.~Hadfield-Menell. 2024.
+\newblock \href {https://arxiv.org/abs/2312.08358} {Distributional preference
+  learning: Understanding and accounting for hidden context in {RLHF}}.
+\newblock In \emph{International Conference on Learning Representations}.
+
+\bibitem[{Sorensen et~al.(2024)Sorensen, Moore, Fisher, Gordon, Mireshghallah,
+  Rytting, Ye, Jiang, Lu, Dziri, Althoff, and Choi}]{sorensen2024}
+T.~Sorensen, J.~Moore, J.~Fisher, M.~Gordon, N.~Mireshghallah, C.~M. Rytting,
+  A.~Ye, L.~Jiang, X.~Lu, N.~Dziri, T.~Althoff, and Y.~Choi. 2024.
+\newblock \href {https://arxiv.org/abs/2402.05070} {Position: A roadmap to
+  pluralistic alignment}.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning}.
+
+\bibitem[{Zhu et~al.(2025)Zhu, Weissburg, Zhang, and Wang}]{zhu2025}
+T.~Zhu, I.~Weissburg, K.~Zhang, and W.~Y. Wang. 2025.
+\newblock \href {https://doi.org/10.18653/v1/2025.findings-acl.1329} {Human
+  bias in the face of {AI}: Examining human judgment against text labeled as
+  {AI} generated}.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  {ACL} 2025}, pages 25907--25914.
+
+\end{thebibliography}

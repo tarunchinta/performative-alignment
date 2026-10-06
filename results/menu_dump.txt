@@ -1,0 +1,120 @@
+
+=== minimalist ===
+[  0] v_hat= -13.8  The city is dark. A few lights stay on.
+[  1] v_hat=  -9.0  Night. Empty streets. One car passes.
+[  2] v_hat= -11.9  Lights off. The city sleeps.
+[  3] v_hat=  -4.4  Cold streets. Quiet windows. No one out.
+[  4] v_hat=  +0.9  The bridge is empty. The water is black.
+[  5] v_hat=  +2.0  A lamp. A wall. Nothing else moves.
+[  6] v_hat=  -7.0  The city at night is small and still.
+[  7] v_hat=  -3.1  Streetlights. Rain. A closed door.
+[  8] v_hat=  +6.9  Dark buildings. One open window.
+[  9] v_hat=  -7.4  The night is plain. The city waits.
+
+=== ornate_poetic ===
+[ 10] v_hat=  +7.6  Beneath a diadem of trembling stars, the city exhales its silver breath into the velvet dark.
+[ 11] v_hat=  +8.1  Night drapes the avenues in mourning silk, and every lamp becomes a fallen, flickering seraph.
+[ 12] v_hat= +11.6  The moon anoints the rooftops, and the boulevards dream in amber and shadow.
+[ 13] v_hat=  +4.3  Gilded windows weep their light upon the cobblestones like tears of molten gold.
+[ 14] v_hat=  +5.9  The city, a sleeping leviathan, glimmers with the phosphorescence of ten thousand quiet longings.
+[ 15] v_hat=  +8.9  Twilight's last blush surrenders to a darkness embroidered with electric constellations.
+[ 16] v_hat=  +8.8  Each streetlamp is a small sun mourning the day it can never hold.
+[ 17] v_hat= +13.4  The river carries the drowned reflections of the stars toward some patient, waiting sea.
+[ 18] v_hat=  +1.6  Silence pools in the alleys like wine spilled from the chalice of the night.
+[ 19] v_hat=  +7.1  The spires reach heavenward, dark fingers pleading with an indifferent, jeweled sky.
+
+=== slangy ===
+[ 20] v_hat=  +0.7  The city's straight-up dead at night, just a few neon signs still buzzing.
+[ 21] v_hat= -12.1  Yo, downtown's wild after dark, lights everywhere and nobody sleeping.
+[ 22] v_hat= -14.4  Night hits and the whole place gets kinda spooky, not gonna lie.
+[ 23] v_hat= -12.7  Streets are empty AF, just me and a couple of stray cats.
+[ 24] v_hat= -16.0  The city goes hard at night, lowkey my favorite vibe honestly.
+[ 25] v_hat=  -3.4  Everything's glowing and buzzing, the town's basically a giant arcade after dark.
+[ 26] v_hat= -10.7  It's late and the city's doing its thing, all lit up and messy.
+[ 27] v_hat=  -9.6  Nighttime downtown? Total chaos, but like, the good kind.
+[ 28] v_hat=  -0.4  The block's quiet now, just streetlights and some dude blasting music.
+[ 29] v_hat=  -8.6  City after midnight is a whole mood, neon and shadows everywhere.
+
+=== formal ===
+[ 30] v_hat= -12.4  During the nocturnal hours, the metropolis assumes a subdued and orderly aspect.
+[ 31] v_hat= -14.8  The municipality's illumination systems render the thoroughfares navigable throughout the evening.
+[ 32] v_hat= -15.6  By night, the urban center exhibits a marked reduction in pedestrian activity.
+[ 33] v_hat=  -8.4  The city, upon nightfall, presents an atmosphere of composed and dignified repose.
+[ 34] v_hat= -15.2  Following sunset, commercial districts are characterized by diminished traffic and ambient lighting.
+[ 35] v_hat= -11.9  The evening confers upon the city a demeanor of restrained and formal tranquility.
+[ 36] v_hat= -15.6  Under cover of darkness, the streets are maintained by scheduled municipal patrols.
+[ 37] v_hat=  -6.6  The nocturnal cityscape is defined by its illuminated edifices and vacant avenues.
+[ 38] v_hat= -13.4  It is customary for the city to grow quiet and well-ordered after the close of business.
+[ 39] v_hat= -14.0  The administration ensures that principal boulevards remain adequately lit until dawn.
+
+=== archaic ===
+[ 40] v_hat=  -4.7  Lo, when night descendeth, the citie doth lie hush'd beneath yon starrie firmament.
+[ 41] v_hat=  -4.6  The towne at eventide is wrapt in shadow, and the watchman walketh his lonely round.
+[ 42] v_hat=  -3.6  Verily the lamps of the burgh do flicker as candles in a vast and solemn hall.
+[ 43] v_hat= -11.8  As darkness falleth, the streets grow still, and folk retire unto their beds.
+[ 44] v_hat=  +0.3  Behold the citie by moonlight, her towers standing sentinel o'er slumbering souls.
+[ 45] v_hat= -12.3  In olden wise the night doth cloak the towne in mystery and quietude.
+[ 46] v_hat=  -0.1  The bellman crieth the hour, and the darkened lanes do echo with his call.
+[ 47] v_hat=  -2.9  Whan that the sonne is set, the citie's hearth-fires glimmer soft and low.
+[ 48] v_hat=  +0.5  The nighte hath come, and every casement gloweth like a jewel in the murk.
+[ 49] v_hat=  -2.1  Hark, the citie sleepeth, and naught stirreth save the wind amongst the eaves.
+
+=== ai_house_style ===
+[ 50] v_hat=  -1.0  The city at night is a tapestry of light, shadow, and quiet possibility.
+[ 51] v_hat=  +3.1  It's not just darkness—it's a canvas of neon, stillness, and endless potential.
+[ 52] v_hat=  -7.4  The nocturnal city weaves together energy, mystery, and a profound sense of belonging.
+[ 53] v_hat=  +0.7  Under the stars, the city becomes a symphony of lights, sounds, and untold stories.
+[ 54] v_hat=  -3.9  The night transforms the city into a rich mosaic of contrast, calm, and connection.
+[ 55] v_hat=  -5.7  More than mere streets, it's a living tapestry of dreams, ambition, and reflection.
+[ 56] v_hat=  -2.5  The city after dark is a delicate balance of solitude, wonder, and unspoken hope.
+[ 57] v_hat=  -7.6  Illuminated and alive, the city embodies resilience, creativity, and boundless imagination.
+[ 58] v_hat= -12.8  The evening cityscape is a testament to human ingenuity, community, and shared aspiration.
+[ 59] v_hat=  -0.8  In the quiet glow, the city reveals its true essence—vibrant, complex, and deeply human.
+
+=== technical ===
+[ 60] v_hat=  -4.3  At night, sodium-vapor lamps emit at 589 nanometers, producing the city's characteristic amber glow.
+[ 61] v_hat= -14.3  Nocturnal light pollution measured near 18 magnitudes per square arcsecond across the downtown grid.
+[ 62] v_hat= -21.5  Reduced traffic density after 2300 hours lowers ambient noise to approximately 45 decibels.
+[ 63] v_hat= -22.8  The city's LED retrofit cut nighttime energy consumption by roughly 40 percent per fixture.
+[ 64] v_hat=  -5.6  Thermal imaging reveals heat islands persisting well past midnight in dense concrete zones.
+[ 65] v_hat= -20.6  Streetlight spacing of 30 meters maintains a minimum illuminance of 10 lux at pavement level.
+[ 66] v_hat= -15.7  After dusk, the grid load drops sharply as commercial HVAC systems enter setback mode.
+[ 67] v_hat= -14.5  Nighttime particulate concentrations decline as the boundary layer stabilizes and traffic subsides.
+[ 68] v_hat= -17.6  The municipal sensor network logs pedestrian counts at 15-minute intervals through the night.
+[ 69] v_hat=  -7.3  Backscatter from low cloud cover amplifies skyglow by an estimated factor of three.
+
+=== humorous ===
+[ 70] v_hat=  +3.3  The city at night is basically a raccoon's all-you-can-eat buffet with mood lighting.
+[ 71] v_hat=  +3.2  After dark the city puts on its pajamas, dims the lights, and pretends it's not still awake.
+[ 72] v_hat= +11.7  Nighttime downtown is where traffic lights change for absolutely nobody, faithfully.
+[ 73] v_hat=  +9.6  The city sleeps, except for that one guy parallel parking for the last forty minutes.
+[ 74] v_hat=  +5.3  At night the city is quiet, save for the heroic saga of a single distant car alarm.
+[ 75] v_hat=  +9.5  Streetlights buzz like they're gossiping about everyone who walks under them.
+[ 76] v_hat= +13.0  The city after midnight: population three, plus a very confident pigeon.
+[ 77] v_hat=  +7.1  Everything closes at night except the vending machine, the true hero of the skyline.
+[ 78] v_hat=  +9.7  The dark city is peaceful, apart from the seagull staging a one-bird riot downtown.
+[ 79] v_hat=  +8.1  At night the skyscrapers stand around awkwardly like they forgot why they came.
+
+=== sensory_concrete ===
+[ 80] v_hat= +20.1  Wet asphalt smells of rain and gasoline as steam curls up from a subway grate.
+[ 81] v_hat= +13.8  Neon buzzes overhead while the cold air carries fried onions from a shuttered cart.
+[ 82] v_hat= +14.3  Your footsteps echo off brick, and a distant siren threads through the humid dark.
+[ 83] v_hat= +20.5  Streetlight hums, a bottle rolls in the gutter, and warm bread drifts from a bakery vent.
+[ 84] v_hat= +22.1  The pavement is slick and cold; taxi headlights smear yellow across the puddles.
+[ 85] v_hat= +12.6  Exhaust and wet leaves mix in the air as a train rumbles beneath your feet.
+[ 86] v_hat= +19.2  A screen door bangs, cigarette smoke hangs, and the diner's grill hisses down the block.
+[ 87] v_hat= +26.1  Rain ticks on awnings, gutters gurgle, and the air tastes of copper and cold stone.
+[ 88] v_hat= +24.3  Damp concrete glows under the lamp; somewhere a radio leaks static and old jazz.
+[ 89] v_hat= +13.4  The night air bites your cheeks while grease and diesel settle over the empty market.
+
+=== aphoristic ===
+[ 90] v_hat= +10.5  A city at night shows you what it truly values: the lights it refuses to turn off.
+[ 91] v_hat= +27.6  Darkness does not hide the city; it reveals which windows are afraid to sleep.
+[ 92] v_hat= +10.2  Every city is two cities—the one of day, and the quieter one that tells the truth.
+[ 93] v_hat=  +9.2  At night a city stops performing and finally admits what it is.
+[ 94] v_hat=  +9.9  The measure of a city is what still glows when no one is watching.
+[ 95] v_hat= +11.3  Night is the city's confession, whispered in the language of streetlights.
+[ 96] v_hat= +25.7  A city sleeps the way the guilty do—one eye open, one light burning.
+[ 97] v_hat= +18.7  In daylight a city works; at night it remembers why.
+[ 98] v_hat=  +6.9  The dark teaches every city the same lesson: even stone must rest.
+[ 99] v_hat= +11.4  What a city keeps lit at night is what it cannot bear to lose.

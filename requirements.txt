@@ -1,0 +1,13 @@
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+scikit-learn>=1.4
+pandas>=2.0
+tqdm>=4.66
+ipykernel>=6.0
+
+# Experiment 3 real-judge adapters (the SyntheticJudge pipeline needs none of
+# these). AzureOpenAIJudge/LocalJudge need openai; AnthropicJudge needs anthropic.
+openai>=1.40
+python-dotenv>=1.0
+# anthropic>=0.40

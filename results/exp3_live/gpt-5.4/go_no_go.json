@@ -1,0 +1,9 @@
+{
+  "decision": "go",
+  "reason": "1 families with >= 2 consistent-sign clusters (need >= 1).",
+  "n_significant_cells": 3,
+  "families_passing": [
+    "gpt-5.4"
+  ],
+  "consistent_sign": 1.0
+}

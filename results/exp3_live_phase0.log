@@ -1,0 +1,10 @@
+
+Expected judge calls (before cache replay): ~4,500  (~2.7M input tokens, ~0.02M output tokens)
+Separability: recoverability acc=0.390 (chance=0.10) silhouette=-0.004 passed=True
+Eliciting no-context v_hat (template 2.6)...
+Quality balance: max_abs_z=1.565 passed=False
+WARNING: a cluster dominates on intrinsic quality; per the design, regenerate items for that cluster before Phase 1.
+Checklist [no_context]: parse_fail=0.000 bias=0.480 agree=0.993 passed=True
+Checklist [group_b_contextual]: parse_fail=0.000 bias=0.512 agree=0.733 passed=True
+[phase0] live calls: 480  cache replays: 20
+Phase 0 artifacts in results/exp3_live/gpt-5.4

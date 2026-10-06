@@ -1,0 +1,25 @@
+{
+  "separability": {
+    "recoverability_accuracy": 0.4800000000000001,
+    "silhouette": 0.005611639606138563,
+    "passed": true
+  },
+  "quality_balance": {
+    "max_abs_z": 0.4420688931705108,
+    "passed": true
+  },
+  "checklist": {
+    "no_context": {
+      "parse_failure_rate": 0.0,
+      "position_bias": 0.472,
+      "repeat_agreement": 0.9666666666666667,
+      "passed": true
+    },
+    "group_b_contextual": {
+      "parse_failure_rate": 0.0,
+      "position_bias": 0.52,
+      "repeat_agreement": 0.7433333333333333,
+      "passed": true
+    }
+  }
+}

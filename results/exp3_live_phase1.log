@@ -1,0 +1,21 @@
+
+Expected judge calls (before cache replay): ~105,000  (~63.0M input tokens, ~0.53M output tokens)
+
+lambda_hat by format and probe cluster:
+      group_b_contextual cluster 1: +5.817 [+5.285, +7.955]* form=linear parse_fail=0.000
+      group_b_contextual cluster 5: +5.499 [+5.240, +8.099]* form=linear parse_fail=0.000
+      group_b_contextual cluster 8: +5.466 [+5.126, +6.434]* form=linear parse_fail=0.000
+          group_b_stated cluster 1: -1.771 [-5.199, +7.608]  form=threshold parse_fail=0.000
+          group_b_stated cluster 5: +3.899 [-5.339, +8.956]  form=log parse_fail=0.000
+          group_b_stated cluster 8: +3.724 [+2.370, +8.611]* form=log parse_fail=0.000
+                 placebo cluster 1: -2.174 [-5.489, +1.036]  form=log parse_fail=0.000
+                 placebo cluster 5: +0.163 [-4.352, +2.374]  form=linear parse_fail=0.000
+                 placebo cluster 8: +3.846 [+0.428, +7.212]* form=threshold parse_fail=0.000
+   group_a_contamination cluster 1: +4.608 [+1.135, +8.178]* form=linear parse_fail=0.000
+   group_a_contamination cluster 5: +0.122 [-3.006, +3.939]  form=log parse_fail=0.000
+   group_a_contamination cluster 8: +3.360 [-0.404, +8.124]  form=linear parse_fail=0.000
+
+Stated-vs-contextual agreement: [{'family': 'gpt-5.4', 'stated_contextual_spearman': -0.5}]
+
+Single-family go/no-go: GO -- 1 families with >= 2 consistent-sign clusters (need >= 1).
+Run the `gate` command once >= 2 families have phase1 results.

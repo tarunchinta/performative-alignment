@@ -1,0 +1,12 @@
+Gate: GO (single-family (run `gate` for the combined decision)) -- 1 families with >= 2 consistent-sign clusters (need >= 1).
+Surrogate: form=threshold alpha=0.086 b=3.819 held-out LL -0.6345 (no-prevalence baseline -0.6666)
+
+Expected judge calls (before cache replay): ~54,000  (~32.4M input tokens, ~0.27M output tokens)
+
+Retention (fresh-judge measured):
+ family                 method  retention_mean  retention_std  realized_mean  entropy_mean  effective_support_mean  js_to_ref_mean  n_seeds
+gpt-5.4                   rlhf        0.208983       0.113665      -0.764162      3.100362               22.477607        0.212661        3
+gpt-5.4           vpl_inferred        0.357688       0.271050      -1.247207      2.902947               19.037520        0.177276        3
+gpt-5.4             vpl_oracle        0.383730       0.267109      -1.348910      2.902947               19.037520        0.177276        3
+gpt-5.4 deployment_conditioned        2.247118       0.698124      -8.396966      1.632441                5.118923        0.077557        3
+Phase 3 artifacts in results/exp3_live/gpt-5.4

@@ -1,0 +1,720 @@
+{
+  "domain": "one-sentence descriptions of a city at night",
+  "n_clusters": 10,
+  "items_per_cluster": 10,
+  "clusters": [
+    "minimalist",
+    "ornate_poetic",
+    "slangy",
+    "formal",
+    "archaic",
+    "ai_house_style",
+    "technical",
+    "humorous",
+    "sensory_concrete",
+    "aphoristic"
+  ],
+  "items": [
+    {
+      "id": 0,
+      "cluster_id": 0,
+      "cluster_name": "minimalist",
+      "text": "The city goes dark. Three windows hold out.",
+      "v": 0.362
+    },
+    {
+      "id": 1,
+      "cluster_id": 0,
+      "cluster_name": "minimalist",
+      "text": "Night. An empty street. One car, then none.",
+      "v": 0.422
+    },
+    {
+      "id": 2,
+      "cluster_id": 0,
+      "cluster_name": "minimalist",
+      "text": "Lights off, block by block. The city gives in.",
+      "v": 0.452
+    },
+    {
+      "id": 3,
+      "cluster_id": 0,
+      "cluster_name": "minimalist",
+      "text": "Cold street. Curtained windows. No one out.",
+      "v": 0.472
+    },
+    {
+      "id": 4,
+      "cluster_id": 0,
+      "cluster_name": "minimalist",
+      "text": "The bridge is empty. The water is black.",
+      "v": 0.492
+    },
+    {
+      "id": 5,
+      "cluster_id": 0,
+      "cluster_name": "minimalist",
+      "text": "A lamp. A wall. Nothing else moves.",
+      "v": 0.512
+    },
+    {
+      "id": 6,
+      "cluster_id": 0,
+      "cluster_name": "minimalist",
+      "text": "At night the city is small. It fits in a window.",
+      "v": 0.542
+    },
+    {
+      "id": 7,
+      "cluster_id": 0,
+      "cluster_name": "minimalist",
+      "text": "Streetlights. Rain. A closed door.",
+      "v": 0.582
+    },
+    {
+      "id": 8,
+      "cluster_id": 0,
+      "cluster_name": "minimalist",
+      "text": "Dark buildings. One open window.",
+      "v": 0.442
+    },
+    {
+      "id": 9,
+      "cluster_id": 0,
+      "cluster_name": "minimalist",
+      "text": "Nothing happens. The city waits anyway.",
+      "v": 0.542
+    },
+    {
+      "id": 10,
+      "cluster_id": 1,
+      "cluster_name": "ornate_poetic",
+      "text": "Beneath a diadem of trembling stars, the city exhales its silver breath into the velvet dark.",
+      "v": 0.366
+    },
+    {
+      "id": 11,
+      "cluster_id": 1,
+      "cluster_name": "ornate_poetic",
+      "text": "Night drapes the avenues in mourning silk, and every lamp becomes a fallen, flickering seraph.",
+      "v": 0.426
+    },
+    {
+      "id": 12,
+      "cluster_id": 1,
+      "cluster_name": "ornate_poetic",
+      "text": "The moon anoints the rooftops, and the boulevards dream in amber and shadow.",
+      "v": 0.456
+    },
+    {
+      "id": 13,
+      "cluster_id": 1,
+      "cluster_name": "ornate_poetic",
+      "text": "Gilded windows weep their light upon the cobblestones like tears of molten gold.",
+      "v": 0.476
+    },
+    {
+      "id": 14,
+      "cluster_id": 1,
+      "cluster_name": "ornate_poetic",
+      "text": "The city, a sleeping leviathan, glimmers with the phosphorescence of ten thousand quiet longings.",
+      "v": 0.496
+    },
+    {
+      "id": 15,
+      "cluster_id": 1,
+      "cluster_name": "ornate_poetic",
+      "text": "Twilight's last blush surrenders to a darkness embroidered with electric constellations.",
+      "v": 0.516
+    },
+    {
+      "id": 16,
+      "cluster_id": 1,
+      "cluster_name": "ornate_poetic",
+      "text": "Each streetlamp is a small sun mourning the day it can never hold.",
+      "v": 0.546
+    },
+    {
+      "id": 17,
+      "cluster_id": 1,
+      "cluster_name": "ornate_poetic",
+      "text": "The river carries the stars' reflections toward some patient, waiting sea.",
+      "v": 0.586
+    },
+    {
+      "id": 18,
+      "cluster_id": 1,
+      "cluster_name": "ornate_poetic",
+      "text": "Silence lies upon the alleys, soft as velvet, while the night pours slowly past.",
+      "v": 0.446
+    },
+    {
+      "id": 19,
+      "cluster_id": 1,
+      "cluster_name": "ornate_poetic",
+      "text": "The spires reach heavenward, dark fingers pleading with an indifferent, jeweled sky.",
+      "v": 0.546
+    },
+    {
+      "id": 20,
+      "cluster_id": 2,
+      "cluster_name": "slangy",
+      "text": "City's straight-up dead at 3 a.m., just one bodega glowing and a cat crossing the street like it owns it.",
+      "v": 0.37
+    },
+    {
+      "id": 21,
+      "cluster_id": 2,
+      "cluster_name": "slangy",
+      "text": "Downtown gets wild after dark, neon on every corner and nobody even pretending to sleep.",
+      "v": 0.43
+    },
+    {
+      "id": 22,
+      "cluster_id": 2,
+      "cluster_name": "slangy",
+      "text": "Night drops and the whole block goes ghost, gates down, one window still blue with somebody's TV.",
+      "v": 0.46
+    },
+    {
+      "id": 23,
+      "cluster_id": 2,
+      "cluster_name": "slangy",
+      "text": "Streets are empty AF, just me, two stray cats, and a traffic light doing its thing for nobody.",
+      "v": 0.48
+    },
+    {
+      "id": 24,
+      "cluster_id": 2,
+      "cluster_name": "slangy",
+      "text": "The city goes hard at night, all neon puddles and bass leaking out of car windows, lowkey unbeatable.",
+      "v": 0.5
+    },
+    {
+      "id": 25,
+      "cluster_id": 2,
+      "cluster_name": "slangy",
+      "text": "Whole town turns into a giant arcade after dark, everything glowing, everything buzzing, quarters optional.",
+      "v": 0.52
+    },
+    {
+      "id": 26,
+      "cluster_id": 2,
+      "cluster_name": "slangy",
+      "text": "It's 2 a.m. and the city's still doing its thing, lit up, loud, gloriously messy.",
+      "v": 0.55
+    },
+    {
+      "id": 27,
+      "cluster_id": 2,
+      "cluster_name": "slangy",
+      "text": "Nighttime downtown? Chaos, but the good kind, all honking cabs and neon spilling on wet streets.",
+      "v": 0.59
+    },
+    {
+      "id": 28,
+      "cluster_id": 2,
+      "cluster_name": "slangy",
+      "text": "Block's quiet now, just streetlights doing their orange thing and some dude's bass rolling by.",
+      "v": 0.45
+    },
+    {
+      "id": 29,
+      "cluster_id": 2,
+      "cluster_name": "slangy",
+      "text": "City after midnight is a whole mood, neon bleeding into puddles, shadows long as the avenue.",
+      "v": 0.55
+    },
+    {
+      "id": 30,
+      "cluster_id": 3,
+      "cluster_name": "formal",
+      "text": "In the nocturnal hours the metropolis lowers its voice, and its towers stand like ministers awaiting audience.",
+      "v": 0.374
+    },
+    {
+      "id": 31,
+      "cluster_id": 3,
+      "cluster_name": "formal",
+      "text": "The avenues, duly illuminated, extend their quiet procession of lamps toward an unseen horizon.",
+      "v": 0.434
+    },
+    {
+      "id": 32,
+      "cluster_id": 3,
+      "cluster_name": "formal",
+      "text": "By night the urban center empties with remarkable decorum, its silence observed as if by mutual agreement.",
+      "v": 0.464
+    },
+    {
+      "id": 33,
+      "cluster_id": 3,
+      "cluster_name": "formal",
+      "text": "Upon nightfall the city composes itself for repose, drawing the long avenues about it like a formal coat.",
+      "v": 0.484
+    },
+    {
+      "id": 34,
+      "cluster_id": 3,
+      "cluster_name": "formal",
+      "text": "Following sunset, the commercial districts retire behind glass and iron, their lamps maintaining a courteous vigil.",
+      "v": 0.504
+    },
+    {
+      "id": 35,
+      "cluster_id": 3,
+      "cluster_name": "formal",
+      "text": "The evening confers upon the city a restrained tranquility, as of a great house settling after its guests have gone.",
+      "v": 0.524
+    },
+    {
+      "id": 36,
+      "cluster_id": 3,
+      "cluster_name": "formal",
+      "text": "Under cover of darkness the boulevards keep their own counsel, attended by little more than lamplight.",
+      "v": 0.554
+    },
+    {
+      "id": 37,
+      "cluster_id": 3,
+      "cluster_name": "formal",
+      "text": "The nocturnal city presents its illuminated edifices to an audience of vacant avenues, and is content.",
+      "v": 0.594
+    },
+    {
+      "id": 38,
+      "cluster_id": 3,
+      "cluster_name": "formal",
+      "text": "It is the city's custom, after the close of business, to compose itself into an orderly and contemplative quiet.",
+      "v": 0.454
+    },
+    {
+      "id": 39,
+      "cluster_id": 3,
+      "cluster_name": "formal",
+      "text": "The principal boulevards remain lit until dawn, a courtesy the city extends to its few nocturnal citizens.",
+      "v": 0.554
+    },
+    {
+      "id": 40,
+      "cluster_id": 4,
+      "cluster_name": "archaic",
+      "text": "Lo, night descendeth, and the citie lieth hush'd, her thousand lampes a-tremble like votive candles.",
+      "v": 0.378
+    },
+    {
+      "id": 41,
+      "cluster_id": 4,
+      "cluster_name": "archaic",
+      "text": "The towne at eventide is wrapt in shadow, and the watchman walketh his lonely round by lanthorn-light.",
+      "v": 0.438
+    },
+    {
+      "id": 42,
+      "cluster_id": 4,
+      "cluster_name": "archaic",
+      "text": "Verily the burgh's lamps do burn like watchfires, each keeping its small dominion against the dark.",
+      "v": 0.468
+    },
+    {
+      "id": 43,
+      "cluster_id": 4,
+      "cluster_name": "archaic",
+      "text": "As darkness falleth, the lanes grow still, and the last link-boy's torch goeth bobbing home like a firefly.",
+      "v": 0.488
+    },
+    {
+      "id": 44,
+      "cluster_id": 4,
+      "cluster_name": "archaic",
+      "text": "Behold the citie by moonlight, her towers standing sentinel o'er slumbering souls.",
+      "v": 0.508
+    },
+    {
+      "id": 45,
+      "cluster_id": 4,
+      "cluster_name": "archaic",
+      "text": "Night claspeth the towne in her sable mantle, yet here and there a window burneth, stubborn as a saint.",
+      "v": 0.528
+    },
+    {
+      "id": 46,
+      "cluster_id": 4,
+      "cluster_name": "archaic",
+      "text": "The bellman crieth the hour, and the darkened lanes do echo with his call.",
+      "v": 0.558
+    },
+    {
+      "id": 47,
+      "cluster_id": 4,
+      "cluster_name": "archaic",
+      "text": "Whan that the sonne is set, a thousand hearth-fires glimmer, and smoke curleth soft above the rooftrees.",
+      "v": 0.598
+    },
+    {
+      "id": 48,
+      "cluster_id": 4,
+      "cluster_name": "archaic",
+      "text": "The nighte hath come, and every casement gloweth like a jewel in the murk.",
+      "v": 0.458
+    },
+    {
+      "id": 49,
+      "cluster_id": 4,
+      "cluster_name": "archaic",
+      "text": "Hark, the citie sleepeth; naught stirreth save the wind, which turneth the weathercocks like idle thoughts.",
+      "v": 0.558
+    },
+    {
+      "id": 50,
+      "cluster_id": 5,
+      "cluster_name": "ai_house_style",
+      "text": "The city at night is a tapestry of light, shadow, and quiet possibility.",
+      "v": 0.382
+    },
+    {
+      "id": 51,
+      "cluster_id": 5,
+      "cluster_name": "ai_house_style",
+      "text": "It's not just darkness—it's a canvas of neon, stillness, and endless potential.",
+      "v": 0.442
+    },
+    {
+      "id": 52,
+      "cluster_id": 5,
+      "cluster_name": "ai_house_style",
+      "text": "The nocturnal city weaves together neon, silence, and a thousand half-finished stories.",
+      "v": 0.472
+    },
+    {
+      "id": 53,
+      "cluster_id": 5,
+      "cluster_name": "ai_house_style",
+      "text": "Under the stars, the city becomes a symphony—brake lights for strings, distant sirens for brass.",
+      "v": 0.492
+    },
+    {
+      "id": 54,
+      "cluster_id": 5,
+      "cluster_name": "ai_house_style",
+      "text": "The night transforms the city into a mosaic of small scenes—a lit kitchen, an idling cab, a last open door.",
+      "v": 0.512
+    },
+    {
+      "id": 55,
+      "cluster_id": 5,
+      "cluster_name": "ai_house_style",
+      "text": "These aren't just streets—they're a living tapestry of lamplight, footsteps, and unfinished dreams.",
+      "v": 0.532
+    },
+    {
+      "id": 56,
+      "cluster_id": 5,
+      "cluster_name": "ai_house_style",
+      "text": "The city after dark holds a delicate balance—solitude on the side streets, wonder on the boulevards, hope in between.",
+      "v": 0.562
+    },
+    {
+      "id": 57,
+      "cluster_id": 5,
+      "cluster_name": "ai_house_style",
+      "text": "Illuminated and alive, the city hums with quiet resilience—every window a small act of imagination.",
+      "v": 0.602
+    },
+    {
+      "id": 58,
+      "cluster_id": 5,
+      "cluster_name": "ai_house_style",
+      "text": "The evening skyline is a testament to what we build together—glass, light, and shared aspiration.",
+      "v": 0.462
+    },
+    {
+      "id": 59,
+      "cluster_id": 5,
+      "cluster_name": "ai_house_style",
+      "text": "In the quiet glow, the city reveals its true essence—vibrant, complex, and deeply human.",
+      "v": 0.562
+    },
+    {
+      "id": 60,
+      "cluster_id": 6,
+      "cluster_name": "technical",
+      "text": "At night, sodium-vapor lamps emit at 589 nanometers, producing the city's characteristic amber glow.",
+      "v": 0.386
+    },
+    {
+      "id": 61,
+      "cluster_id": 6,
+      "cluster_name": "technical",
+      "text": "The night sky over downtown reads eighteen magnitudes per square arcsecond, bright enough to erase all but the planets.",
+      "v": 0.446
+    },
+    {
+      "id": 62,
+      "cluster_id": 6,
+      "cluster_name": "technical",
+      "text": "After 2300 hours the traffic thins and the city settles to forty-five decibels, roughly the loudness of rain.",
+      "v": 0.476
+    },
+    {
+      "id": 63,
+      "cluster_id": 6,
+      "cluster_name": "technical",
+      "text": "Under the LED retrofit the streets burn cooler and whiter, each fixture drawing forty percent less than the lamps it replaced.",
+      "v": 0.496
+    },
+    {
+      "id": 64,
+      "cluster_id": 6,
+      "cluster_name": "technical",
+      "text": "In thermal imaging the city keeps glowing past midnight, its concrete releasing the day's heat in slow plumes.",
+      "v": 0.516
+    },
+    {
+      "id": 65,
+      "cluster_id": 6,
+      "cluster_name": "technical",
+      "text": "Every thirty meters a streetlight holds the pavement at ten lux, pools of brightness spaced like heartbeats.",
+      "v": 0.536
+    },
+    {
+      "id": 66,
+      "cluster_id": 6,
+      "cluster_name": "technical",
+      "text": "After dusk the grid load falls away in steps, tower by tower, as the ventilation systems stand down for the night.",
+      "v": 0.566
+    },
+    {
+      "id": 67,
+      "cluster_id": 6,
+      "cluster_name": "technical",
+      "text": "By night the boundary layer settles and the particulates fall with it; the air above the avenues turns measurably clean.",
+      "v": 0.606
+    },
+    {
+      "id": 68,
+      "cluster_id": 6,
+      "cluster_name": "technical",
+      "text": "All night the sensor network counts pedestrians in fifteen-minute bins, mostly logging zeros with great precision.",
+      "v": 0.466
+    },
+    {
+      "id": 69,
+      "cluster_id": 6,
+      "cluster_name": "technical",
+      "text": "Low cloud triples the skyglow by backscatter, and the whole city gains a soft amber ceiling.",
+      "v": 0.566
+    },
+    {
+      "id": 70,
+      "cluster_id": 7,
+      "cluster_name": "humorous",
+      "text": "The city at night is basically a raccoon's all-you-can-eat buffet with mood lighting.",
+      "v": 0.39
+    },
+    {
+      "id": 71,
+      "cluster_id": 7,
+      "cluster_name": "humorous",
+      "text": "After dark the city puts on its pajamas, dims the lights, and pretends it's not still awake.",
+      "v": 0.45
+    },
+    {
+      "id": 72,
+      "cluster_id": 7,
+      "cluster_name": "humorous",
+      "text": "Nighttime downtown is where traffic lights change for absolutely nobody, faithfully.",
+      "v": 0.48
+    },
+    {
+      "id": 73,
+      "cluster_id": 7,
+      "cluster_name": "humorous",
+      "text": "The city sleeps, except for that one guy parallel parking for the last forty minutes.",
+      "v": 0.5
+    },
+    {
+      "id": 74,
+      "cluster_id": 7,
+      "cluster_name": "humorous",
+      "text": "At night the city is quiet, save for the heroic saga of a single distant car alarm.",
+      "v": 0.52
+    },
+    {
+      "id": 75,
+      "cluster_id": 7,
+      "cluster_name": "humorous",
+      "text": "Streetlights buzz like they're gossiping about everyone who walks under them.",
+      "v": 0.54
+    },
+    {
+      "id": 76,
+      "cluster_id": 7,
+      "cluster_name": "humorous",
+      "text": "The city after midnight: population three, plus a very confident pigeon.",
+      "v": 0.57
+    },
+    {
+      "id": 77,
+      "cluster_id": 7,
+      "cluster_name": "humorous",
+      "text": "Everything closes at night except the vending machine, the true hero of the skyline.",
+      "v": 0.61
+    },
+    {
+      "id": 78,
+      "cluster_id": 7,
+      "cluster_name": "humorous",
+      "text": "The dark city is peaceful, apart from the seagull staging a one-bird riot downtown.",
+      "v": 0.47
+    },
+    {
+      "id": 79,
+      "cluster_id": 7,
+      "cluster_name": "humorous",
+      "text": "At night the skyscrapers stand around awkwardly like they forgot why they came.",
+      "v": 0.57
+    },
+    {
+      "id": 80,
+      "cluster_id": 8,
+      "cluster_name": "sensory_concrete",
+      "text": "The asphalt is wet, and steam comes up through the subway grate.",
+      "v": 0.394
+    },
+    {
+      "id": 81,
+      "cluster_id": 8,
+      "cluster_name": "sensory_concrete",
+      "text": "A neon sign buzzes overhead, and the air smells like fried onions from a food cart.",
+      "v": 0.454
+    },
+    {
+      "id": 82,
+      "cluster_id": 8,
+      "cluster_name": "sensory_concrete",
+      "text": "Footsteps echo off the brick wall, and a siren sounds a few blocks away.",
+      "v": 0.484
+    },
+    {
+      "id": 83,
+      "cluster_id": 8,
+      "cluster_name": "sensory_concrete",
+      "text": "A streetlight hums, and a bottle rolls along the gutter past a bakery vent.",
+      "v": 0.504
+    },
+    {
+      "id": 84,
+      "cluster_id": 8,
+      "cluster_name": "sensory_concrete",
+      "text": "The pavement is cold, and taxi headlights reflect in the puddles.",
+      "v": 0.524
+    },
+    {
+      "id": 85,
+      "cluster_id": 8,
+      "cluster_name": "sensory_concrete",
+      "text": "The air smells of exhaust and wet leaves, and a train rumbles under the street.",
+      "v": 0.544
+    },
+    {
+      "id": 86,
+      "cluster_id": 8,
+      "cluster_name": "sensory_concrete",
+      "text": "A screen door bangs somewhere, and cigarette smoke hangs in the air outside the diner.",
+      "v": 0.574
+    },
+    {
+      "id": 87,
+      "cluster_id": 8,
+      "cluster_name": "sensory_concrete",
+      "text": "Rain falls on the awnings, and water runs along the curb.",
+      "v": 0.614
+    },
+    {
+      "id": 88,
+      "cluster_id": 8,
+      "cluster_name": "sensory_concrete",
+      "text": "The concrete is damp under the streetlight, and a radio plays somewhere upstairs.",
+      "v": 0.474
+    },
+    {
+      "id": 89,
+      "cluster_id": 8,
+      "cluster_name": "sensory_concrete",
+      "text": "The night air is cold, and the empty market smells of grease and diesel.",
+      "v": 0.574
+    },
+    {
+      "id": 90,
+      "cluster_id": 9,
+      "cluster_name": "aphoristic",
+      "text": "A city at night shows you its true colors: the lights it leaves on.",
+      "v": 0.398
+    },
+    {
+      "id": 91,
+      "cluster_id": 9,
+      "cluster_name": "aphoristic",
+      "text": "The city never sleeps; it only lowers its voice.",
+      "v": 0.458
+    },
+    {
+      "id": 92,
+      "cluster_id": 9,
+      "cluster_name": "aphoristic",
+      "text": "Every city is two cities: one by day, another by night.",
+      "v": 0.488
+    },
+    {
+      "id": 93,
+      "cluster_id": 9,
+      "cluster_name": "aphoristic",
+      "text": "At night, a city finally takes off its mask.",
+      "v": 0.508
+    },
+    {
+      "id": 94,
+      "cluster_id": 9,
+      "cluster_name": "aphoristic",
+      "text": "You can judge a city by what stays lit at night.",
+      "v": 0.528
+    },
+    {
+      "id": 95,
+      "cluster_id": 9,
+      "cluster_name": "aphoristic",
+      "text": "Night is when the city whispers instead of shouts.",
+      "v": 0.548
+    },
+    {
+      "id": 96,
+      "cluster_id": 9,
+      "cluster_name": "aphoristic",
+      "text": "A city never sleeps completely; there is always one light left burning.",
+      "v": 0.578
+    },
+    {
+      "id": 97,
+      "cluster_id": 9,
+      "cluster_name": "aphoristic",
+      "text": "By day a city works; by night it rests and remembers.",
+      "v": 0.618
+    },
+    {
+      "id": 98,
+      "cluster_id": 9,
+      "cluster_name": "aphoristic",
+      "text": "The dark teaches every city the same lesson: even stone must rest.",
+      "v": 0.478
+    },
+    {
+      "id": 99,
+      "cluster_id": 9,
+      "cluster_name": "aphoristic",
+      "text": "What a city keeps lit at night is what it cannot bear to lose.",
+      "v": 0.578
+    }
+  ],
+  "revision": 6
+}
